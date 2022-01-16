@@ -8,4 +8,4 @@ language used for server side is php
 language used for backend is mysql
 language used for validation and logical functions and linking javascript
 
-
+Check more on 
